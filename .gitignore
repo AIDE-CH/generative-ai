@@ -1,2 +1,12 @@
 .venv/
 /git-commands.txt
+vid07/db/
+vid07/pdfs/
+vid07/markdown/
+*.pyc
+vid08/models
+vid08/outputs
+vid08/unsloth_compiled_cache
+vid09/model/
+vid09/model/
+models
